@@ -1,0 +1,29 @@
+{
+  "name": "top5stocks-mcp-server",
+  "version": "1.0.3",
+  "description": "MCP server for the Top 5 Stocks API — daily ranked stock, crypto, and macro research data for AI agents.",
+  "type": "module",
+  "bin": {
+    "top5stocks-mcp": "index.js"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Top5StocksAPI/mcp-server.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "stocks",
+    "finance",
+    "trading",
+    "crypto"
+  ],
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.4"
+  }
+}
