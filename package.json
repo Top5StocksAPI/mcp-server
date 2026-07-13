@@ -1,6 +1,6 @@
 {
   "name": "top5stocks-mcp-server",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "MCP server for the Top 5 Stocks API — daily ranked stock, crypto, and macro research data for AI agents.",
   "type": "module",
   "bin": {
